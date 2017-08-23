@@ -6,4 +6,4 @@
 * Analysis Model: Linear Regression
 
 
-![Alt text](/Users/SherryJeon/GoogleDriver/Git/SherryProject/Toyota-Corolla-Linear-Regression/Flowchart/Flowchart.jpg "Summary of Project")
+![Alt tag](/Users/SherryJeon/GoogleDriver/Git/SherryProject/Toyota-Corolla-Linear-Regression/Flowchart/Flowchart.jpg "Summary of Project")
